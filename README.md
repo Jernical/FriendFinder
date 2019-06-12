@@ -4,7 +4,7 @@ This app is the perfect place for you if your looking for a friend in your local
 
 ## Live Link ##
 
-* link here
+* https://jerne-friendfinder.herokuapp.com/
 
 ## How to setup locally ##
 
